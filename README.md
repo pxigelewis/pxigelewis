@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pxigelewi
+- 👋 Hi, I’m @pxigelewis
 - 👀 I’m interested in machine learning, quantum mechanics, and what my cat does when I'm not home
 - 🌱 I’m currently learning ruby on rails and python
 - 💞️ I’m looking to collaborate on anything and everything!
