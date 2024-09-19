@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pxigelewis
 - 👀 I’m interested in machine learning, quantum mechanics, and what my cats do when I'm not home
-- 🌱 I’m currently learning tailwindCSS and python
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 How to reach me --> https://www.linkedin.com/in/paigeroselewis/
 
